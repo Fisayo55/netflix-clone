@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>hello world</div>;
+  return <div>netflix clone</div>;
 };
 
 export default App;
