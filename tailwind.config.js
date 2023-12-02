@@ -9,6 +9,7 @@ export default {
       },
       backgroundColor: {
         "custom-red": "rgb(229, 9, 20)",
+        "custom-transparent": "#000000b0",
       },
     },
   },
