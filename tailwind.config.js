@@ -7,6 +7,9 @@ export default {
       height: {
         screen: "100dvh",
       },
+      backgroundColor: {
+        "custom-red": "rgb(229, 9, 20)",
+      },
     },
   },
   plugins: [],
