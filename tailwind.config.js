@@ -11,6 +11,9 @@ export default {
         "custom-red": "rgb(229, 9, 20)",
         "custom-transparent": "#000000b0",
       },
+      textColor: {
+        "custom-red": "#f34242",
+      },
     },
   },
   plugins: [],
